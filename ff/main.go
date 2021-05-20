@@ -16,7 +16,7 @@ limitations under the License.
 package main
 
 import (
-	"github.com/kaleido-io/firefly-cli/cmd"
+	"github.com/awrichar/firefly-cli/cmd"
 )
 
 func main() {

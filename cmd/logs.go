@@ -21,7 +21,7 @@ import (
 	"os/exec"
 	"path"
 
-	"github.com/kaleido-io/firefly-cli/internal/stacks"
+	"github.com/awrichar/firefly-cli/internal/stacks"
 	"github.com/spf13/cobra"
 )
 
